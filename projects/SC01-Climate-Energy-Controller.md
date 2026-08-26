@@ -40,9 +40,17 @@ Python; NumPy/Pandas; Matplotlib/Plotly; Streamlit (recommended). Students may u
 
 working fuzzy controller, baseline, 10K scenarios, two plots and interactive MVP. Documentation-only work does not satisfy M1.
 
+### M1 acceptance criteria
+
+M1: document weather/occupancy/tariff sources; generate 10,000 scenarios; implement and plot all fuzzy membership functions and at least 12 rules; build a fixed-threshold baseline; demonstrate cooling and fan recommendations from live inputs.
+
 ## Milestone 2: Advanced Product V2
 
 GA-optimised controller, sensitivity analysis, comparison and polished dashboard.
+
+### M2 acceptance criteria
+
+M2: encode controller parameters for GA; compare fixed, fuzzy, and GA-tuned fuzzy control across all scenarios; report comfort error and energy reduction; test empty rooms, heat waves, and high tariffs; publish a dashboard with sensitivity plots.
 
 ## Baseline and evaluation
 
