@@ -40,9 +40,17 @@ Python; NumPy/Pandas; Matplotlib/Plotly; Streamlit (recommended). Students may u
 
 one working classifier, baseline, error/convergence plots and risk MVP. Documentation-only work does not satisfy M1.
 
+### M1 acceptance criteria
+
+M1: cite/prepare 10,000 student records; implement one transparent classifier and a score-threshold baseline; show preprocessing, predictions, loss/error, and intervention output.
+
 ## Milestone 2: Advanced Product V2
 
 three-model comparison, tuning, calibration and intervention dashboard.
+
+### M2 acceptance criteria
+
+M2: implement Perceptron, ADALINE, and BPN comparison; tune learning parameters; report F1/confusion matrices; analyse imbalance, noisy marks, and fairness; provide an intervention dashboard.
 
 ## Baseline and evaluation
 
