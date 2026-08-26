@@ -40,9 +40,17 @@ Python; NumPy/Pandas; Matplotlib/Plotly; Streamlit (recommended). Students may u
 
 route GA, baseline comparison and map/fitness plot. Documentation-only work does not satisfy M1.
 
+### M1 acceptance criteria
+
+M1: cite distance/route data and create 10,000 traffic scenarios; implement permutation GA and nearest-neighbour baseline; display route, distance, and fitness progression.
+
 ## Milestone 2: Advanced Product V2
 
 parameter experiments, priority/time-window constraints and app.
+
+### M2 acceptance criteria
+
+M2: add priorities/time windows; test crossover, mutation, and population choices; compare random, greedy, and GA routes; report distance/time/cost and difficult route cases on a map.
 
 ## Baseline and evaluation
 
