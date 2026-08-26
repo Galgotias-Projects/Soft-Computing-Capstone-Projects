@@ -40,9 +40,17 @@ Python; NumPy/Pandas; Matplotlib/Plotly; Streamlit (recommended). Students may u
 
 working model, baseline, confusion matrix and decision demo. Documentation-only work does not satisfy M1.
 
+### M1 acceptance criteria
+
+M1: prepare cited 10,000+ credit records; implement risk classifier and crisp score baseline; demonstrate low/medium/high output with confusion matrix and basic explanation.
+
 ## Milestone 2: Advanced Product V2
 
 hybrid comparison, calibration/fairness checks and dashboard.
+
+### M2 acceptance criteria
+
+M2: add fuzzy handling of uncertainty/borderline applicants; compare crisp, ANN, and hybrid decisions; perform calibration/fairness/edge-case analysis; report metrics and decision explanations.
 
 ## Baseline and evaluation
 
