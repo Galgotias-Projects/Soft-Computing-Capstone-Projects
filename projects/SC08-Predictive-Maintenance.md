@@ -40,9 +40,17 @@ Python; NumPy/Pandas; Matplotlib/Plotly; Streamlit (recommended). Students may u
 
 ANN/fuzzy MVP, baseline, error curve and priority demo. Documentation-only work does not satisfy M1.
 
+### M1 acceptance criteria
+
+M1: prepare 10,000+ sensor records; implement fault predictor or fuzzy priority logic plus crisp threshold baseline; demonstrate sensor input, risk, and maintenance priority.
+
 ## Milestone 2: Advanced Product V2
 
 hybrid system, experiments, noise/edge analysis and dashboard.
+
+### M2 acceptance criteria
+
+M2: integrate ANN risk with fuzzy severity priority; tune and compare approaches; test noisy/extreme sensors; report F1/ROC-AUC, priority consistency, and explainable dashboard results.
 
 ## Baseline and evaluation
 
