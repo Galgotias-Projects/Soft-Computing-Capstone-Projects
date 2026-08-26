@@ -24,7 +24,7 @@ Official student-facing catalogue for the 2026 Soft Computing capstones. Review 
 - Milestone 1 is a fully working Product V1—not documentation only. Milestone 2 is an enhanced Product V2.
 - Every project includes a meaningful Soft Computing implementation, a baseline, experiments, visual analysis, quantitative evaluation, limitations, and a runnable demonstration.
 - Continuous Git history, report, ~5-minute video, presentation, and individual viva are mandatory.
-- Evaluation: GitHub 10 + Report 10 + Video 10 + Viva/Presentation 20 = **50 marks**.
+- Evaluation: GitHub 10 + Report 10 + Video 10 + Deployment & UI 10 + Viva/Presentation 10 = **50 marks**.
 
 ## Repository guide
 
