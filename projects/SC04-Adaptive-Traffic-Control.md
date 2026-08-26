@@ -40,9 +40,17 @@ Python; NumPy/Pandas; Matplotlib/Plotly; Streamlit (recommended). Students may u
 
 fuzzy controller, simulation, baseline and fitness/delay plots. Documentation-only work does not satisfy M1.
 
+### M1 acceptance criteria
+
+M1: simulate 10,000 traffic states; implement a fuzzy green-time controller and fixed-time baseline; demonstrate queue, wait, and emergency input-to-output decisions.
+
 ## Milestone 2: Advanced Product V2
 
 GA-optimised controller, extreme-case testing and dashboard.
+
+### M2 acceptance criteria
+
+M2: use GA to tune fuzzy parameters; compare fixed, fuzzy, and GA-fuzzy policies; evaluate extreme queues/emergencies; report delay, throughput, and queue plots in an interactive simulator.
 
 ## Baseline and evaluation
 
