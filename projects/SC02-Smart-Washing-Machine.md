@@ -40,9 +40,17 @@ Python; NumPy/Pandas; Matplotlib/Plotly; Streamlit (recommended). Students may u
 
 fuzzy decision MVP with baseline and input/output visualisation. Documentation-only work does not satisfy M1.
 
+### M1 acceptance criteria
+
+M1: build wash scenarios for dirt, load, fabric, and water availability; implement fuzzy rules; compare with a fixed cycle; demonstrate recommended time, water, detergent, and spin settings.
+
 ## Milestone 2: Advanced Product V2
 
 GA-tuned resource optimiser with experiments and app.
+
+### M2 acceptance criteria
+
+M2: tune resource/quality constraints with GA; compare three policies; test delicate fabric, water scarcity, and overloaded machines; show resource-saving and wash-quality plots.
 
 ## Baseline and evaluation
 
