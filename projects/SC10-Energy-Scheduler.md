@@ -40,9 +40,17 @@ Python; NumPy/Pandas; Matplotlib/Plotly; Streamlit (recommended). Students may u
 
 forecast MVP, baseline, error/fitness plots and schedule demo. Documentation-only work does not satisfy M1.
 
+### M1 acceptance criteria
+
+M1: prepare 10,000+ demand records/scenarios; implement ANN demand forecast or simple GA scheduler and non-optimised baseline; demonstrate a daily schedule with error or fitness plot.
+
 ## Milestone 2: Advanced Product V2
 
 integrated GA schedule, parameter study and dashboard.
+
+### M2 acceptance criteria
+
+M2: integrate forecast and GA schedule; enforce appliance constraints; compare non-optimised, fixed-tariff, and GA plans; report cost, peak reduction, error, and preference-conflict cases.
 
 ## Baseline and evaluation
 
