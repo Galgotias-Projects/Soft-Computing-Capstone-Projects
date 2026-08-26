@@ -1,86 +1,56 @@
 # Git & Team Repository Guidelines
 
-After allocation, each team must create a **separate development repository** under the **Galgotias-Projects** organization. This central repository remains the official project catalogue.
+This guide is for beginners. Think of GitHub as your team's shared project folder with a history: it records what changed, when it changed, and who did the work.
 
-## Required repository structure
+## Five simple words
 
-```text
-project-id-project-name/
-├── README.md
-├── requirements.txt
-├── .gitignore
-├── data/
-│   └── README.md
-├── notebooks/
-├── src/
-├── app/
-├── results/
-├── report/
-└── docs/                         # optional: diagrams, video link, slides
-```
+| Word | Meaning | Example |
+|---|---|---|
+| Repository (repo) | The online folder for your whole project | SC01-Climate-Controller-Team-A |
+| File | One item inside that folder | app.py or README.md |
+| Commit | A saved checkpoint with a message | Add fuzzy controller rules |
+| Push | Send those checkpoints to GitHub | Make this week's work visible online |
+| README | The front page of your project | Explains the project and how to run it |
 
-Do not upload raw datasets when their licence, size, or source terms prohibit it. In that case, provide a download script or clear instructions in data/README.md.
+You do not need to learn every Git command. Each week, add the work you completed, write a clear commit message, and push it to GitHub.
 
-## Required contents
+## Required structure
 
-### Root README.md
+    project-id-project-name/
+    ├── README.md              project introduction and run steps
+    ├── requirements.txt       Python packages
+    ├── data/README.md         data citation and download notes
+    ├── notebooks/             exploration and experiments
+    ├── src/                   main algorithm code
+    ├── app/                   runnable Streamlit, GUI, or CLI product
+    ├── results/               labelled plots and tables
+    └── report/                interim and final report
 
-The README must state:
+Example: an irrigation team might have src/ann_model.py, src/fuzzy_controller.py, app/app.py, and results/predicted_vs_actual.png.
 
-- project ID, title, team members, and faculty mentor (if assigned);
-- problem statement, objectives, and why Soft Computing is appropriate;
-- architecture diagram or pipeline;
-- algorithms used and baseline;
-- dataset/scenario source, URL, licence, original size, features, and preprocessing;
-- setup and run instructions;
-- current results, key visualisations, limitations, and video link when available.
+## What must the root README say?
 
-### Source and application
+1. Project ID, title, and all team members.
+2. Problem, objectives, and why Soft Computing is appropriate.
+3. Dataset/scenario source, URL, licence, size, features, and preprocessing.
+4. Algorithms used and the simple baseline.
+5. Exact setup and run instructions.
+6. Current results, key visuals, limitations, and final video link.
 
-- **src/**: reusable preprocessing, algorithm, evaluation, and utility code.
-- **app/**: runnable Streamlit/GUI/CLI entry point.
-- **notebooks/**: exploratory work and experiments; the final product must not exist only in a notebook.
-- **results/**: generated plots, tables, saved predictions/schedules, and a short explanation of each result.
-- **report/**: interim and final report source/PDF as instructed by faculty.
-- **requirements.txt**: exact Python dependencies and versions where practical.
+Example status information: Milestone M1; Run command: streamlit run app/app.py; Dataset: 12,450 documented climate scenarios; Baseline: fixed-threshold controller; Current result: 18% lower energy use.
 
-## Minimum Git evidence
+## How to work each week
 
-GitHub is assessed as development evidence, not file storage. Each team must:
+1. Create the folder structure and README early.
+2. Complete one small meaningful task.
+3. Commit with a sentence explaining that task.
+4. Push the same day or week.
+5. Ensure every member has visible, meaningful contributions.
 
-1. Create the repository early and add the initial structure and README.
-2. Commit incrementally throughout both milestones.
-3. Use descriptive commit messages, for example:
-   - Add cited dataset preprocessing pipeline
-   - Implement Mamdani membership functions
-   - Add GA crossover and mutation operators
-   - Evaluate fixed-threshold baseline
-   - Publish M1 interactive MVP
-4. Ensure each member contributes visible, meaningful work through commits, pull requests, reviews, documentation, or clearly attributable modules.
-5. Use branches and pull requests where practical; direct commits are acceptable for a small team if history remains clear.
-6. Tag or otherwise identify the M1 and final/M2 submissions.
+Good messages: Add dataset preprocessing pipeline; Implement Mamdani membership functions; Add GA crossover and mutation; Evaluate fixed-threshold baseline; Publish M1 interactive MVP.
 
-Uploading a ZIP, one final code dump, or only a few end-of-semester commits will not receive full Git marks.
+Avoid messages such as update, final, changes, or one giant final upload. GitHub is assessment evidence, not storage for a final ZIP.
 
-## Milestone repository checklist
+## M1 and M2 checks
 
-| Item | M1 | M2 |
-|---|:---:|:---:|
-| README, team, setup, data citation | Required | Updated |
-| 10,000+ records/scenarios documented | Required | Required |
-| Core Soft Computing implementation | Working | Complete/enhanced |
-| Baseline | Working | Compared quantitatively |
-| Runnable product | Product V1 | Polished Product V2 |
-| Results and plots | At least 2 | Full experiments and edge cases |
-| Continuous commit history | Required | Required |
-| Report/video links | Interim report | Final report and video |
-
-## Suggested README status block
-
-```text
-Milestone: M1 / M2
-Run command: streamlit run app/app.py
-Dataset/scenarios: 12,450 records — source and citation below
-Baseline: Fixed threshold controller
-Current best result: 18% lower energy use than baseline
-```
+At M1 the repository must contain cited 10,000+ data/scenarios, a working core algorithm, baseline, Product V1, and at least two plots. At M2 it must show the completed/enhanced method, experiments, edge cases, final results, report/video links, and continuous history.
