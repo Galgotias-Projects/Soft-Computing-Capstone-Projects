@@ -40,9 +40,17 @@ Python; NumPy/Pandas; Matplotlib/Plotly; Streamlit (recommended). Students may u
 
 one core ANN or fuzzy MVP, baseline and result plots. Documentation-only work does not satisfy M1.
 
+### M1 acceptance criteria
+
+M1: prepare 10,000+ crop/weather records; implement ANN or fuzzy MVP plus fixed moisture baseline; demonstrate water recommendation and prediction/decision plots.
+
 ## Milestone 2: Advanced Product V2
 
 integrated hybrid model, tuning, comparison and dashboard.
+
+### M2 acceptance criteria
+
+M2: integrate ANN prediction with fuzzy irrigation decision; compare threshold, ANN-only, fuzzy-only, and hybrid behaviour; test rain/noise/dry-soil cases; report water saved and prediction error.
 
 ## Baseline and evaluation
 
