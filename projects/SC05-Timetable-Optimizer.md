@@ -40,9 +40,17 @@ Python; NumPy/Pandas; Matplotlib/Plotly; Streamlit (recommended). Students may u
 
 GA MVP generating a feasible timetable, baseline and convergence chart. Documentation-only work does not satisfy M1.
 
+### M1 acceptance criteria
+
+M1: model courses, rooms, faculty, and constraints; implement chromosome, fitness, selection, crossover, mutation, and a random/greedy baseline; generate a feasible sample timetable with convergence chart.
+
 ## Milestone 2: Advanced Product V2
 
 multi-objective tuning, constraint analysis and interactive schedule viewer.
+
+### M2 acceptance criteria
+
+M2: add hard/soft constraints and repair logic; run parameter studies; compare GA with baseline on 10,000+ scenario variations; report violations, gaps, room use, runtime, and a schedule viewer.
 
 ## Baseline and evaluation
 
