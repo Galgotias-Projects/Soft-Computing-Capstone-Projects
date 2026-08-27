@@ -20,6 +20,7 @@ Official student-facing catalogue for the 2026 Soft Computing capstones. Review 
 ## Non-negotiable project contract
 
 - Teams: 3–4 students.
+- Project allocation: maximum three teams per project, allocated on a first-come, first-served basis.
 - Data-driven projects require a cited dataset with at least 10,000 records. Fuzzy/optimisation projects require at least 10,000 realistic, documented test scenarios.
 - Milestone 1 is a fully working Product V1—not documentation only. Milestone 2 is an enhanced Product V2.
 - Every project includes a meaningful Soft Computing implementation, a baseline, experiments, visual analysis, quantitative evaluation, limitations, and a runnable demonstration.
