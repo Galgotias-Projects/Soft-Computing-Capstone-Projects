@@ -8,6 +8,8 @@ Example for the Climate Controller: give temperature 32 C, humidity 78%, and occ
 
 ## Complete these steps
 
+New teams should first use the [Beginner Project Start Workbook (PDF)](../output/pdf/Soft-Computing-Beginner-Project-Start-Guide.pdf). It uses simple language and gives an eight-step roadmap, examples, and an exact Step 1 checklist for every project. The [editable text version](BEGINNER-PROJECT-START-GUIDE.md) is also available.
+
 ### Step 1: Prepare the repository
 
 Create the repository early. Add a README with the team, objective, data citation, setup instructions, and the algorithm being developed. Follow the Git guide for folders and commit examples.

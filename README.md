@@ -29,6 +29,8 @@ Official student-facing catalogue for the 2026 Soft Computing capstones. Review 
 
 ## Repository guide
 
+- [Beginner Project Start Workbook (PDF): simple eight-step roadmap and exact Step 1 for every project](output/pdf/Soft-Computing-Beginner-Project-Start-Guide.pdf)
+- [Editable text version of the beginner guide](guidelines/BEGINNER-PROJECT-START-GUIDE.md)
 - [Common capstone rules](guidelines/CAPSTONE-GUIDELINES.md)
 - [Milestone 1](guidelines/MILESTONE-1.md) and [Milestone 2](guidelines/MILESTONE-2.md)
 - [Git guidelines](guidelines/GIT-GUIDELINES.md)
