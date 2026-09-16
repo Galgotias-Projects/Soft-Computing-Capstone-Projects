@@ -1,5 +1,7 @@
 # SC06: Campus Route Optimizer
 
+**Start here:** [Beginner Step 1 Guide (PDF)](../output/pdf/beginner-project-guides/SC06-Beginner-Step-1-Guide.pdf)
+
 **Difficulty:** ⭐⭐⭐  
 **Core techniques:** Genetic Algorithm  
 **Team:** 3–4 students

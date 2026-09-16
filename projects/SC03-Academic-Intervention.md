@@ -1,5 +1,7 @@
 # SC03: Academic Intervention
 
+**Start here:** [Beginner Step 1 Guide (PDF)](../output/pdf/beginner-project-guides/SC03-Beginner-Step-1-Guide.pdf)
+
 **Difficulty:** ⭐⭐⭐  
 **Core techniques:** Perceptron + ADALINE + Backpropagation  
 **Team:** 3–4 students

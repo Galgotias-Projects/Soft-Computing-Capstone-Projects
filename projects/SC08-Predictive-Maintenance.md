@@ -1,5 +1,7 @@
 # SC08: Predictive Maintenance
 
+**Start here:** [Beginner Step 1 Guide (PDF)](../output/pdf/beginner-project-guides/SC08-Beginner-Step-1-Guide.pdf)
+
 **Difficulty:** ⭐⭐⭐  
 **Core techniques:** ANN + Fuzzy Logic  
 **Team:** 3–4 students

@@ -1,5 +1,7 @@
 # SC04: Adaptive Traffic Control
 
+**Start here:** [Beginner Step 1 Guide (PDF)](../output/pdf/beginner-project-guides/SC04-Beginner-Step-1-Guide.pdf)
+
 **Difficulty:** ⭐⭐⭐⭐  
 **Core techniques:** Fuzzy Logic + Genetic Algorithm  
 **Team:** 3–4 students

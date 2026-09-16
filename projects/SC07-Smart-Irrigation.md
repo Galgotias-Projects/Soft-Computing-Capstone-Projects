@@ -1,5 +1,7 @@
 # SC07: Smart Irrigation
 
+**Start here:** [Beginner Step 1 Guide (PDF)](../output/pdf/beginner-project-guides/SC07-Beginner-Step-1-Guide.pdf)
+
 **Difficulty:** ⭐⭐⭐⭐  
 **Core techniques:** Fuzzy Logic + ANN  
 **Team:** 3–4 students

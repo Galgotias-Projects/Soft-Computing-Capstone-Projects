@@ -1,5 +1,7 @@
 # SC01: Climate Energy Controller
 
+**Start here:** [Beginner Step 1 Guide (PDF)](../output/pdf/beginner-project-guides/SC01-Beginner-Step-1-Guide.pdf)
+
 **Difficulty:** ⭐⭐⭐⭐  
 **Core techniques:** Fuzzy Logic + Genetic Algorithm  
 **Team:** 3–4 students

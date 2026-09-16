@@ -1,5 +1,7 @@
 # SC10: Energy Scheduler
 
+**Start here:** [Beginner Step 1 Guide (PDF)](../output/pdf/beginner-project-guides/SC10-Beginner-Step-1-Guide.pdf)
+
 **Difficulty:** ⭐⭐⭐  
 **Core techniques:** ANN + Genetic Algorithm  
 **Team:** 3–4 students

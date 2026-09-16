@@ -29,7 +29,7 @@ Official student-facing catalogue for the 2026 Soft Computing capstones. Review 
 
 ## Repository guide
 
-- [Beginner Project Start Workbook (PDF): simple eight-step roadmap and exact Step 1 for every project](output/pdf/Soft-Computing-Beginner-Project-Start-Guide.pdf)
+- [Combined Beginner Project Start Workbook (PDF): overview of all ten projects](output/pdf/Soft-Computing-Beginner-Project-Start-Guide.pdf)
 - [Editable text version of the beginner guide](guidelines/BEGINNER-PROJECT-START-GUIDE.md)
 - [Common capstone rules](guidelines/CAPSTONE-GUIDELINES.md)
 - [Milestone 1](guidelines/MILESTONE-1.md) and [Milestone 2](guidelines/MILESTONE-2.md)
@@ -38,3 +38,20 @@ Official student-facing catalogue for the 2026 Soft Computing capstones. Review 
 - [Report template](templates/REPORT-TEMPLATE.md) and [team README template](templates/README-TEMPLATE.md)
 
 After allocation, each team should create a separate development repository under the organization; this repository remains the official specification catalogue.
+
+## Beginner Step 1 guides
+
+Each project now has a separate greyscale, Open Sans PDF. It gives a short view of all eight steps and a fully explained, action-by-action Step 1.
+
+| Project | Beginner guide |
+|---|---|
+| SC01 | [Climate and Energy Controller](output/pdf/beginner-project-guides/SC01-Beginner-Step-1-Guide.pdf) |
+| SC02 | [Smart Washing Machine](output/pdf/beginner-project-guides/SC02-Beginner-Step-1-Guide.pdf) |
+| SC03 | [Academic Intervention](output/pdf/beginner-project-guides/SC03-Beginner-Step-1-Guide.pdf) |
+| SC04 | [Adaptive Traffic Control](output/pdf/beginner-project-guides/SC04-Beginner-Step-1-Guide.pdf) |
+| SC05 | [Timetable Optimizer](output/pdf/beginner-project-guides/SC05-Beginner-Step-1-Guide.pdf) |
+| SC06 | [Campus Route Optimizer](output/pdf/beginner-project-guides/SC06-Beginner-Step-1-Guide.pdf) |
+| SC07 | [Smart Irrigation](output/pdf/beginner-project-guides/SC07-Beginner-Step-1-Guide.pdf) |
+| SC08 | [Predictive Maintenance](output/pdf/beginner-project-guides/SC08-Beginner-Step-1-Guide.pdf) |
+| SC09 | [Credit Risk](output/pdf/beginner-project-guides/SC09-Beginner-Step-1-Guide.pdf) |
+| SC10 | [Energy Scheduler](output/pdf/beginner-project-guides/SC10-Beginner-Step-1-Guide.pdf) |

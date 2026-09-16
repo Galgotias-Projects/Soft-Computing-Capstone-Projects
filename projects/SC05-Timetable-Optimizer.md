@@ -1,5 +1,7 @@
 # SC05: Timetable Optimizer
 
+**Start here:** [Beginner Step 1 Guide (PDF)](../output/pdf/beginner-project-guides/SC05-Beginner-Step-1-Guide.pdf)
+
 **Difficulty:** ⭐⭐⭐⭐  
 **Core techniques:** Genetic Algorithm  
 **Team:** 3–4 students

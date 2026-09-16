@@ -1,5 +1,7 @@
 # SC09: Credit Risk
 
+**Start here:** [Beginner Step 1 Guide (PDF)](../output/pdf/beginner-project-guides/SC09-Beginner-Step-1-Guide.pdf)
+
 **Difficulty:** ⭐⭐⭐  
 **Core techniques:** ANN + Fuzzy Logic  
 **Team:** 3–4 students
